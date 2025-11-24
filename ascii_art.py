@@ -8,6 +8,7 @@ API_KEY = "Copy and Past your key from the website"
 
 # List of ASCII characters for shading
 ASCII_CHARS = list("$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,\"^`'. ")
+
 # If using a white background, comment out this line (It inverts the characters and is intended for a dark mode background)
 ASCII_CHARS = ASCII_CHARS[::-1] 
 
